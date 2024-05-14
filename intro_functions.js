@@ -12,13 +12,13 @@ function multiply(a, b) {
 }
 
 function divide(a, b) {
-    return a/b;
+    return a / b;
 }
 
 console.log(add(1,2));
 console.log(substract(1,2));
 console.log(multiply(2,4));
-console.log(devide(4,8));
+console.log(divide(4,8));
 
 
 
